@@ -1,2 +1,0 @@
-# BasicCRM
-EjemploCRM
